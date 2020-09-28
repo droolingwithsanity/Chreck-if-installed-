@@ -1,1 +1,1 @@
-# Chreck-if-installed-
+# Check-if-installed-
